@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+
+}
+
+.banner {
+    background-image: url('/images/banner/banner3.png');
+    background-size:cover;
+    height: 808px;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+.banner-title-alignment {
+    margin-right: 230px;
+
+}
+
+.banner-title {
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+
+}
+
+.banner-description {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    margin-left: 876px;
+    margin-right: 230px;
+
+    margin-bottom: 272px;
+}
+
+.btn-primary {
+    width: 160px;
+    height: 64px;
+    margin-left: 910px;
+
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    ;
+
+}
+
+/* Main Part01 Styles */
+.main-part1 {
+    display: flex;
+
+}
+
+.main-img {
+    text-align: left;
+    margin-left: 206px;
+    margin-top: 131px;
+    height: 700px;
+}
+
+.part-1-design {
+    margin-left: 80px;
+
+
+    margin-top: 350px;
+}
+
+.part1-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-right: 450px;
+}
+
+.part1-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-right: 325px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.part1-list {
+    color: #444343;
+    margin-top: 15px;
+    margin-right: 320px;
+}
+
+/* Main-part02 */
+.main-part2 {
+    display: flex;
+
+}
+
+.main-img2 {
+    text-align: left;
+    margin-left: 206px;
+    margin-top: 131px;
+    height: 700px;
+}
+
+.part-2-design {
+    margin-left: 80px;
+
+
+    margin-top: 350px;
+}
+
+.part2-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-right: 450px;
+}
+
+.part2-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-right: 325px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.part2-list {
+    color: #444343;
+    margin-top: 15px;
+    margin-right: 320px;
+}
+
+/* Main Part03 */
+.part3-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: center;
+}
+
+.part3-main {
+    display: flex;
+    text-align: center;
+    margin-left: 230px;
+    margin-right: 220px;
+    margin-top: 20px;
+}
+
+.skills {
+    text-align: center;
+    margin-right: 130px;
+    margin-top: 50px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.skill-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+/* Main-part3 */
+.main3-img{
+    background-image: url('/images/watch.png');
+    background-repeat: no-repeat;
+    height: 500px;
+    
+    background-position: center;
+    
+}
